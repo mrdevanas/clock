@@ -1,0 +1,10 @@
+.divo{
+    width: 100vh;
+    font-size: 25vh;
+    background-color: black;
+    color: white;
+    box-shadow: 10px 10px 10px 10px red;
+border-radius: 30px;
+margin-top: 25vh;
+
+}
